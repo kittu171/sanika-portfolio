@@ -44,6 +44,15 @@ function App() {
             </a>
 
             <a
+              href="/sanika resume.pdf"
+              target="_blank"
+              rel="noreferrer"
+              className="secondary-btn"
+            >
+              Download Resume ↓
+            </a>
+
+            <a
               href="https://github.com/kittu171"
               target="_blank"
               rel="noreferrer"
